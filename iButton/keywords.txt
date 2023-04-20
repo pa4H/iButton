@@ -1,8 +1,12 @@
-# Цвета для либы хыхыхых
+iButton	KEYWORD1
 
-iButton KEYWORD1
-
-readKey  KEYWORD2
-getType  KEYWORD2
-crc8     KEYWORD2
-writeKey KEYWORD2
+readKey	KEYWORD2
+getType	KEYWORD2
+getKeyName	KEYWORD2
+crc8	KEYWORD2
+writeKey	KEYWORD2
+pullUp	KEYWORD2
+pullDown	KEYWORD2
+checkCyfralCode	KEYWORD2
+emulateCyfral	KEYWORD2
+emulateDallas	KEYWORD2
