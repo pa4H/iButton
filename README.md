@@ -1,5 +1,6 @@
 # iButton
-Library for interacting with keys _RW1990.1, RW1990.2, Cyfral_
+__WORK IN PROGRESS!!!__  
+Library for interacting with keys _RW1990.1, RW1990.2, Cyfral_  
 100% work on __ATmega328__.
 
 __ESP8266__ does not support reading _Cyfral_ keys. You can make support and send the code to me :)
