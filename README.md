@@ -4,6 +4,9 @@ Library for interacting with keys _RW1990.1, RW1990.2, Cyfral_
 
 __ESP8266__ does not support reading _Cyfral_ keys. You can make support and send the code to me :)
 
+## How to connect
+![aaaaaaa](https://github.com/pa4H/iButton/blob/main/Connections.png)
+
 ## Example
 ```cpp
 #define keyData      17   // iButton Data pin
